@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { number, shape } from 'prop-types';
+import { shape } from 'prop-types';
 import constants from '../constants';
 import AttributesMain from './AttributesMain';
 import Abilities from './Abilities';

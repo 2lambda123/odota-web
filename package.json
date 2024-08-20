@@ -81,7 +81,7 @@
     "@types/jest": "^29.5.12",
     "@types/lodash": "^4.14.149",
     "@types/long": "^5.0.0",
-    "@types/material-ui": "^0.20.8",
+    "@types/material-ui": "^0.21.17",
     "@types/nanoid": "^2.1.0",
     "@types/node": "^12.12.20",
     "@types/papaparse": "^5.0.3",

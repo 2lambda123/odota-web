@@ -78,7 +78,7 @@
     "@types/history": "^4.7.3",
     "@types/hoist-non-react-statics": "^3.3.1",
     "@types/isomorphic-fetch": "^0.0.35",
-    "@types/jest": "^24.0.24",
+    "@types/jest": "^29.5.12",
     "@types/lodash": "^4.14.149",
     "@types/long": "^5.0.0",
     "@types/material-ui": "^0.20.8",

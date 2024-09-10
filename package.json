@@ -115,7 +115,7 @@
     "simple-vdf": "^1.1.1",
     "testcafe": "^3.6.2",
     "testcafe-react-selectors": "^5.0.3",
-    "typescript": "^5.5.4"
+    "typescript": "^5.6.2"
   },
   "overrides": {
     "react-error-overlay": "6.0.9"

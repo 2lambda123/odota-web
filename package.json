@@ -79,7 +79,7 @@
     "@types/hoist-non-react-statics": "^3.3.5",
     "@types/isomorphic-fetch": "^0.0.39",
     "@types/jest": "^29.5.13",
-    "@types/lodash": "^4.17.7",
+    "@types/lodash": "^4.17.9",
     "@types/long": "^5.0.0",
     "@types/material-ui": "^0.21.17",
     "@types/nanoid": "^3.0.0",

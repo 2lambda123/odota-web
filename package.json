@@ -54,7 +54,7 @@
     "react-stripe-checkout": "^2.6.3",
     "react-tooltip": "5.28.0",
     "react-transition-group": "^4.4.5",
-    "recharts": "^2.12.7",
+    "recharts": "^2.13.0",
     "redux": "^5.0.1",
     "redux-responsive": "^4.3.8",
     "redux-thunk": "^3.1.0",

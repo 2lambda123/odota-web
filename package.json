@@ -27,7 +27,7 @@
     "@material-ui/styles": "^4.5.0",
     "@stripe/stripe-js": "^5.4.0",
     "abcolor": "^0.5.5",
-    "ace-builds": "^1.37.1",
+    "ace-builds": "^1.37.2",
     "core-js": "^3.39.0",
     "dota2-emoticons": "^1.0.4",
     "dotaconstants": "^9.3.0",

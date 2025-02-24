@@ -35,7 +35,7 @@
     "heatmap.js": "github:muyao1987/heatmap.js",
     "history": "^5.3.0",
     "lodash": "^4.17.15",
-    "long": "^5.3.0",
+    "long": "^5.3.1",
     "material-ui": "^0.20.2",
     "nanoid": "^5.1.2",
     "papaparse": "^5.5.2",
